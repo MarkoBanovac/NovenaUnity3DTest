@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Language Page.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/List Page.unity
+    guid: 0f4b658b43773364486f60b78438235e
+  - enabled: 1
+    path: Assets/Scenes/Details Page.unity
+    guid: 612c83faee0dc6144b1b5777c314555c
+  - enabled: 1
+    path: Assets/Scenes/AR Page.unity
+    guid: 943d61507978a3e4fa169fcaaa42e09c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d81dbfaf22ffd6e4e9262ea07b65f8a2,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: df60c13e541d7974ab387c25b940d826, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2eaf6ef3db9afdb48b5cc76b4e1346ee,
+      type: 2}
