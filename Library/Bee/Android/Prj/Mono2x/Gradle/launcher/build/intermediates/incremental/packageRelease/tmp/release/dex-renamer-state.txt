@@ -1,4 +1,0 @@
-#Sat Dec 17 01:39:42 CET 2022
-base.0=C\:\\UnityProjects\\NovenaUnityTest\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
